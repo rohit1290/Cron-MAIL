@@ -1,0 +1,17 @@
+Pending
+
+#00. Templates Selections
+#01. Templates Addition
+#02. Template Custom and Its Edit Button
+
+#08. Image Upload
+#09. Image Delete
+#10. Image View
+
+#04. allcron.php - Preview Button to view mail (once the templates has been implemented.)
+
+#12. newpreview.php - Update Preview Mail (once the templates has been implemented.)
+
+#11. new.php - Add TinyMCE to Mail Body
+
+**05. allmail.php - Edit button - Testing left
